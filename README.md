@@ -47,6 +47,4 @@
   </a>
 </p>
 
----
 
-<p align="center">✨ Always improving. Always building. MERN on. ✨</p>
