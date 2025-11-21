@@ -37,12 +37,12 @@
 
 ## 🌐 Connect With Me  
 <p>
-  <a href="https://www.instagram.com/its_sriram_here/">
+  <a href="https://www.instagram.com/its_sriram_here/" target="blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40"/>
   </a>
   &nbsp;&nbsp;
   <br>
-  <a href="https://www.linkedin.com/in/its-sriram-here/">
+  <a href="https://www.linkedin.com/in/its-sriram-here/"  target="blank">
     <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="40"/>
   </a>
 </p>
