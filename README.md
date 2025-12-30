@@ -6,7 +6,6 @@
 ---
 
 <!-- Right Side GIF -->
-<img align="right" width="300" src="https://media.giphy.com/media/3pZipqyo1sqHDfJGtz/giphy.gif">
 
 ## 👨‍💻 About Me  
 - 🌱 Learning & building with **MERN Stack**  
