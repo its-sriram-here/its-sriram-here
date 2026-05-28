@@ -1,31 +1,33 @@
 <div align="center">
 
-# Sriram Murugesan
+<h1 style="font-size:38px; font-weight:800; margin-bottom:0px;">
+Sriram Murugesan
+</h1>
 
-### Software Engineer
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Experiences;Backend+Systems+%2B+Clean+Interfaces;Full+Stack+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=3500&color=58A6FF&center=true&vCenter=true&width=280&lines=Software+Engineer" />
 
 <br>
 <br>
+
+<div align="center">
+
+<a href="https://its-sriram-here.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>&nbsp;&nbsp;
 
 <a href="https://linkedin.com/in/its-sriram-here">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/its-sriram-here">
-  <img src="https://skillicons.dev/icons?i=github" height="42"/>
-</a>
-&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>&nbsp;&nbsp;
+
 <a href="https://instagram.com/YOUR_USERNAME">
-  <img src="https://skillicons.dev/icons?i=instagram" height="42"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://github.com/its-sriram-here">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;&nbsp;
-<a href="https://its-sriram-here.vercel.app/">
-  <img src="https://skillicons.dev/icons?i=vercel" height="42"/>
-</a>
+
+</div>
 
 </div>
 
@@ -33,7 +35,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Code.%20Build.%20Refine.&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=240&section=header&text=Code.%20Build.%20Refine.&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 </div>
 
@@ -45,7 +47,7 @@
 
 </div>
 
-<br>
+<br><br>
 
 # Stack
 
@@ -55,7 +57,7 @@
 
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
 
@@ -77,14 +79,14 @@ Clean interactions
 ### Backend
 
 REST APIs
-Structured systems
 Scalable workflows
+Structured systems
 
 </td>
 
 <td align="center" width="33%">
 
-### Focus
+### Engineering
 
 Performance
 Consistency
