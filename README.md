@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>&nbsp;&nbsp;
 
-<a href="https://instagram.com/YOUR_USERNAME">
+<a href="https://.instagram.com/its_sriram_here">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>&nbsp;&nbsp;
 
